@@ -29,6 +29,11 @@ const cardData = [
         favDomain: "Web3",
         link: "https://github.com/mrswastik-robot"
     },
+     {
+        name: "GODINFINITY17",
+        favDomain: "Web3",
+        link: "https://github.com/GODINFINITY17"
+    },
     
     // Add more card objects here
   ];
